@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="editTextTextPersonName">Nombre</string>
+    <string name="btnLogin">" iniciar sesión"</string>
+    <string name="btnRegister">Registrate</string>
+    <string name="etEmail">Correo</string>
+    <string name="etLogin">Contraseña</string>
+</resources>

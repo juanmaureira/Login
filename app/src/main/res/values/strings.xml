@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="editTextTextPersonName">Name</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="etEmail">Email</string>
+    <string name="etLogin">Password</string>
+</resources>

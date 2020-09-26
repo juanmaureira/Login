@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247297152363",
+    "firebase_url": "https://login-569b4.firebaseio.com",
+    "project_id": "login-569b4",
+    "storage_bucket": "login-569b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247297152363:android:75b595035c2f51dca7682e",
+        "android_client_info": {
+          "package_name": "cl.maureira.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247297152363-e8v8hu6tdbr1o90pclecbpi5a0e3fa7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.maureira.login",
+            "certificate_hash": "aeefc328ec05e29b1942578e2aac9caeb066c6d4"
+          }
+        },
+        {
+          "client_id": "247297152363-as5d4ig1q1ev4gd44keb6299ej7n7par.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSB1hXNqgvssnNNEFIIw3XPFKpACKrBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247297152363-as5d4ig1q1ev4gd44keb6299ej7n7par.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
